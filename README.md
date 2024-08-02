@@ -19,5 +19,5 @@ El cuarto contenedor posee un texto que indica el pais del usuario, este contene
 
 Y por último, el quinto contenedor, el cual es un pie de página. Este elemento a su vez posee dos contenedores con etiquetas de enlaces y distribuidos a lo largo de la pagina.
 
-<h4>Página: https://nazarenomoreno.github.io/GoogleClone/</h4>
+<h4>https://nazarenomoreno.github.io/GoogleClone/</h4>
 
