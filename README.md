@@ -1,7 +1,7 @@
 <h2>
   Google Chrome clone
 </h2>
-En este trabajo simple, hice un clone de la página de busqueda de Google Chrome utilizando HTML y CSS.
+<h3>En este trabajo simple, hice un clone de la página de busqueda de Google Chrome utilizando HTML y CSS.</h3>
 La página esta conformada por cinco contenedores generales, aquí una descripción de cada uno:
 
 El primer contenedor llamado 'encabezado' contiene cuatro elementos:
