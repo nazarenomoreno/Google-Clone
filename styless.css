@@ -168,7 +168,7 @@ body{
 .lupa{
 
   height: 23px;
-  position: absolute;                           /*relative y absolute para poner las imagener dentro de la barra*/
+  position: absolute;                           /*relative y absolute para poner las imagenes dentro de la barra*/
   margin-top: 12px;
   left: 14px;
   cursor: pointer;
@@ -197,7 +197,7 @@ body{
 
 .barra:focus{
   border-color:rgb(185, 188, 188);
-  outline: none;                                             /*ancho negro predertimado de la barra*/
+  outline: none;                                             /*ancho negro predeterminado de la barra*/
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
