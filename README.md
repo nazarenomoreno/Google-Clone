@@ -15,7 +15,7 @@ El segundo contenedor es unicamente para almacenar el logo de Google, por dentro
 El tercer contenedor contiene a su vez dos contenedores. El primero tiene posicion Relativa y se utiliza para poder colocar ciertas imagenes por encima de la barra de busqueda. Dentro tiene las tres imagenes y la barra de busqueda. valga la redundancia.
 El segundo contenedor posee dos botones los cuales se colocarán por debajo de la barra y son los botones principales de la busqueda.
 
-El cuarto contenedor posee un texto que indica el pais del usuario, este contenedor tiene una altura de 17 pixeles y abarca todo el ancho del cuerpo.
+El cuarto contenedor posee un texto que indica el pais del usuario, este contenedor tiene una altura definida y abarca todo el ancho del cuerpo.
 
 Y por último, el quinto contenedor, el cual es un pie de página. Este elemento a su vez posee dos contenedores con etiquetas de enlaces y distribuidos a lo largo de la pagina.
 
